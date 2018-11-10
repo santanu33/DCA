@@ -107,7 +107,7 @@ registry, and UCP controllers](https://success.docker.com/article/networking/)
 available](http://rancher.com/block-object-file-storage-containers/)
 - [Summarize how an application is composed of layers and where those layers reside on
 the filesystem](https://medium.com/@jessgreb01/digging-into-docker-layers-c22f948ed612)
-- [Describe how volumes are used with Docker for persistent storage](https://docs.docker.com/engine/admin/volumes/volumes/)
+- [Describe how volumes are used with Docker for persistent storage](https://docs.docker.com/engine/admin/volumes/volumes/) :white_check_mark:
 - [Identify the steps you would take to clean up unused images on a filesystem, also on
 DTR](https://docs.docker.com/engine/reference/commandline/image_prune/)
 - [Demonstrate how storage can be used across cluster nodes](https://docs.docker.com/engine/extend/legacy_plugins/#volume-plugins)
