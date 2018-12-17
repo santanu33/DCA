@@ -92,7 +92,7 @@ registry, and UCP controllers](https://success.docker.com/article/networking/)
 ### Domain 5: Security (15% of exam)
 - [Describe the process of signing an image](https://docs.docker.com/engine/security/trust/content_trust/#push-trusted-content)
 - [Demonstrate that an image passes a security scan](https://docs.docker.com/docker-cloud/builds/image-scan/)
-- [Enable Docker Content Trust](https://docs.docker.com/engine/security/trust/content_trust/)
+- [Enable Docker Content Trust](https://docs.docker.com/engine/security/trust/content_trust/) :white_check_mark:
 - [Configure RBAC in UCP](https://docs.docker.com/datacenter/ucp/2.2/guides/access-control/)
 - [Integrate UCP with LDAP/AD](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/configure/external-auth/)
 - [Demonstrate creation of UCP client bundles](https://blog.docker.com/2017/09/get-familiar-docker-enterprise-edition-client-bundles/)
