@@ -43,13 +43,13 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Display layers of a Docker image](http://blog.arungupta.me/show-layers-of-docker-image/) :white_check_mark:
 - [Apply a file to create a Docker image](https://docs.docker.com/engine/reference/commandline/image_load/) :white_check_mark:
 - [Modify an image to a single layer](https://docs.docker.com/engine/reference/commandline/save/)  :white_check_mark:
-- [Describe how image layers work](https://medium.com/@jessgreb01/digging-into-docker-layers-c22f948ed612)
-- [Deploy a registry (not architect)](https://docs.docker.com/registry/deploying/)
-- [Configure a registry](https://docs.docker.com/registry/configuration/)
-- [Log into a registry](https://docs.docker.com/engine/reference/commandline/login/#parent-command)
-- [Utilize search in a registry](https://docs.docker.com/engine/reference/commandline/search/)
-- [Tag an image](https://docs.docker.com/engine/reference/commandline/tag/)
-- [Push an image to a registry](https://docs.docker.com/engine/reference/commandline/push/)
+- [Describe how image layers work](https://medium.com/@jessgreb01/digging-into-docker-layers-c22f948ed612) :white_check_mark:
+- [Deploy a registry (not architect)](https://docs.docker.com/registry/deploying/)  :white_check_mark:
+- [Configure a registry](https://docs.docker.com/registry/configuration/) :white_check_mark:
+- [Log into a registry](https://docs.docker.com/engine/reference/commandline/login/#parent-command) :white_check_mark:
+- [Utilize search in a registry](https://docs.docker.com/engine/reference/commandline/search/) :white_check_mark:
+- [Tag an image](https://docs.docker.com/engine/reference/commandline/tag/) :white_check_mark:
+- [Push an image to a registry](https://docs.docker.com/engine/reference/commandline/push/) :white_check_mark:
 - [Sign an image in a registry](https://docs.docker.com/datacenter/dtr/2.4/guides/user/manage-images/sign-images/)
 - [Pull an image from a registry](https://docs.docker.com/engine/reference/commandline/pull/)
 - [Describe how image deletion works](https://docs.docker.com/engine/reference/commandline/rmi/)
@@ -61,8 +61,8 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 engine on multiple platforms](https://docs.docker.com/install/#server)
 - [Configure logging drivers (splunk, journald, etc)](https://docs.docker.com/engine/admin/logging/overview/) :white_check_mark:
 - [Setup swarm, configure managers, add nodes, and setup backup schedule](https://docs.docker.com/engine/swarm/admin_guide/)
-- [Create and manager user and teams](https://docs.docker.com/datacenter/dtr/2.4/guides/admin/manage-users/create-and-manage-teams/)
-- [Interpret errors to troubleshoot installation issues without assistance](https://docs.docker.com/config/daemon/)
+- [Create and manager user and teams](https://docs.docker.com/datacenter/dtr/2.4/guides/admin/manage-users/create-and-manage-teams/) :confused:
+- [Interpret errors to troubleshoot installation issues without assistance](https://docs.docker.com/config/daemon/) :confused:
 - [Outline the sizing requirements prior to installation](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/install/system-requirements/#hardware-and-software-requirements)
 - [Understand namespaces, cgroups, and configuration of certificates](https://docs.docker.com/engine/docker-overview/#namespaces)
 - [Use certificate-based client-server authentication to ensure a Docker daemon has the
