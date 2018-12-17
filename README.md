@@ -33,16 +33,16 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Demonstrate the usage of templates with "docker service create"](https://docs.docker.com/engine/reference/commandline/service_create/#create-services-using-templates):confused:
 
 ### Domain 2: Image Creation, Management, and Registry (20% of exam)
-- [Describe Dockerfile options(add, copy, volumes, expose, entrypoint, etc)](https://docs.docker.com/engine/reference/builder/#from)
-- [Show the main parts of a Dockerfile](https://docs.docker.com/engine/reference/builder/#dockerfile-examples)
-- [Give examples on how to create an efficient image via a Dockerfile](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
-- [Use CLI commands such as list, delete, prune, rmi, etc to manage images](https://docs.docker.com/engine/reference/commandline/image/#usage)
-- [Inspect images and report specific attributes using filter and format](https://docs.docker.com/engine/reference/commandline/inspect/#extended-description)
-- [Demonstrate tagging an image](https://docs.docker.com/engine/reference/commandline/tag/)
+- [Describe Dockerfile options(add, copy, volumes, expose, entrypoint, etc)](https://docs.docker.com/engine/reference/builder/#from) :white_check_mark:
+- [Show the main parts of a Dockerfile](https://docs.docker.com/engine/reference/builder/#dockerfile-examples) :white_check_mark:
+- [Give examples on how to create an efficient image via a Dockerfile](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) :white_check_mark:
+- [Use CLI commands such as list, delete, prune, rmi, etc to manage images](https://docs.docker.com/engine/reference/commandline/image/#usage) :white_check_mark:
+- [Inspect images and report specific attributes using filter and format](https://docs.docker.com/engine/reference/commandline/inspect/#extended-description):white_check_mark:
+- [Demonstrate tagging an image](https://docs.docker.com/engine/reference/commandline/tag/) :white_check_mark:
 - [Utilize a registry to store an image](https://docs.docker.com/registry/deploying/#copy-an-image-from-docker-hub-to-your-registry)
-- [Display layers of a Docker image](http://blog.arungupta.me/show-layers-of-docker-image/)
-- [Apply a file to create a Docker image](https://docs.docker.com/engine/reference/commandline/image_load/)
-- [Modify an image to a single layer](https://docs.docker.com/engine/reference/commandline/save/)
+- [Display layers of a Docker image](http://blog.arungupta.me/show-layers-of-docker-image/) :white_check_mark:
+- [Apply a file to create a Docker image](https://docs.docker.com/engine/reference/commandline/image_load/) :white_check_mark:
+- [Modify an image to a single layer](https://docs.docker.com/engine/reference/commandline/save/)  :white_check_mark:
 - [Describe how image layers work](https://medium.com/@jessgreb01/digging-into-docker-layers-c22f948ed612)
 - [Deploy a registry (not architect)](https://docs.docker.com/registry/deploying/)
 - [Configure a registry](https://docs.docker.com/registry/configuration/)
