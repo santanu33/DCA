@@ -20,13 +20,13 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Extend the instructions to run individual containers into running services under swarm](https://docs.docker.com/engine/swarm/swarm-tutorial/deploy-service/) :white_check_mark:
 - [Interpret the output of "docker inspect" commands](https://docs.docker.com/engine/swarm/swarm-tutorial/inspect-service/) :white_check_mark:
 - [Convert an application deployment into a stack file using a YAML compose file with
-"docker stack deploy"](https://docs.docker.com/engine/reference/commandline/stack_deploy/)
-- [Manipulate a running stack of services](https://docs.docker.com/engine/reference/commandline/stack_services/#related-commands)
+"docker stack deploy"](https://docs.docker.com/engine/reference/commandline/stack_deploy/) :confused:
+- [Manipulate a running stack of services](https://docs.docker.com/engine/reference/commandline/stack_services/#related-commands) :confused:
 - [Increase number of replicas](https://docs.docker.com/engine/reference/commandline/service_scale/) :white_check_mark:
 - [Illustrate running a replicated vs global service](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#replicated-and-global-services) :white_check_mark:
 - [Mount volumes](https://docs.docker.com/engine/admin/volumes/volumes/) :white_check_mark:
 - [Add networks, publish ports](https://docs.docker.com/engine/userguide/networking/) :white_check_mark:
-- [Identify the steps needed to troubleshoot a service not deploying](https://docs.docker.com/engine/swarm/swarm-tutorial/deploy-service/)
+- [Identify the steps needed to troubleshoot a service not deploying](https://docs.docker.com/engine/swarm/swarm-tutorial/deploy-service/):confused:
 - [Apply node labels to demonstrate placement of tasks](https://docs.docker.com/engine/reference/commandline/node_update/)
 - [Sketch how a Dockerized application communicates with legacy systems](https://docs.docker.com/config/containers/container-networking/)
 - [Paraphrase the importance of quorum in a swarm cluster](https://docs.docker.com/engine/swarm/raft/)
