@@ -25,7 +25,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Increase number of replicas](https://docs.docker.com/engine/reference/commandline/service_scale/) :white_check_mark:
 - [Illustrate running a replicated vs global service](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#replicated-and-global-services) :white_check_mark:
 - [Mount volumes](https://docs.docker.com/engine/admin/volumes/volumes/) :white_check_mark:
-- [Add networks, publish ports](https://docs.docker.com/engine/userguide/networking/)
+- [Add networks, publish ports](https://docs.docker.com/engine/userguide/networking/) :white_check_mark:
 - [Identify the steps needed to troubleshoot a service not deploying](https://docs.docker.com/engine/swarm/swarm-tutorial/deploy-service/)
 - [Apply node labels to demonstrate placement of tasks](https://docs.docker.com/engine/reference/commandline/node_update/)
 - [Sketch how a Dockerized application communicates with legacy systems](https://docs.docker.com/config/containers/container-networking/)
