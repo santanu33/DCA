@@ -18,12 +18,12 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [State the differences between running a container vs running a service](https://stackoverflow.com/a/43408904) :white_check_mark:
 - [Demonstrate steps to lock a swarm cluster](https://docs.docker.com/engine/swarm/swarm_manager_locking/) :white_check_mark:
 - [Extend the instructions to run individual containers into running services under swarm](https://docs.docker.com/engine/swarm/swarm-tutorial/deploy-service/) :white_check_mark:
-- [Interpret the output of "docker inspect" commands](https://docs.docker.com/engine/swarm/swarm-tutorial/inspect-service/)
+- [Interpret the output of "docker inspect" commands](https://docs.docker.com/engine/swarm/swarm-tutorial/inspect-service/) :white_check_mark:
 - [Convert an application deployment into a stack file using a YAML compose file with
 "docker stack deploy"](https://docs.docker.com/engine/reference/commandline/stack_deploy/)
 - [Manipulate a running stack of services](https://docs.docker.com/engine/reference/commandline/stack_services/#related-commands)
-- [Increase number of replicas](https://docs.docker.com/engine/reference/commandline/service_scale/)
-- [Illustrate running a replicated vs global service](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#replicated-and-global-services)
+- [Increase number of replicas](https://docs.docker.com/engine/reference/commandline/service_scale/) :white_check_mark:
+- [Illustrate running a replicated vs global service](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#replicated-and-global-services) :white_check_mark:
 - [Mount volumes](https://docs.docker.com/engine/admin/volumes/volumes/)
 - [Add networks, publish ports](https://docs.docker.com/engine/userguide/networking/)
 - [Identify the steps needed to troubleshoot a service not deploying](https://docs.docker.com/engine/swarm/swarm-tutorial/deploy-service/)
