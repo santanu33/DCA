@@ -101,19 +101,19 @@ registry, and UCP controllers](https://success.docker.com/article/networking/)
 - [Describe MTLS](https://diogomonica.com/2017/01/11/hitless-tls-certificate-rotation-in-go/)
 
 ### Domain 6: Storage and Volumes (10% of exam)
-- [State which graph driver should be used on which OS](https://docs.docker.com/engine/userguide/storagedriver/selectadriver/)
-- [Demonstrate how to configure devicemapper](https://docs.docker.com/engine/userguide/storagedriver/device-mapper-driver/)
+- [State which graph driver should be used on which OS](https://docs.docker.com/engine/userguide/storagedriver/selectadriver/) :white_check_mark:
+- [Demonstrate how to configure devicemapper](https://docs.docker.com/engine/userguide/storagedriver/device-mapper-driver/) :white_check_mark:
 - [Compare object storage to block storage, and explain which one is preferable when
-available](http://rancher.com/block-object-file-storage-containers/)
+available](http://rancher.com/block-object-file-storage-containers/) :white_check_mark:
 - [Summarize how an application is composed of layers and where those layers reside on
-the filesystem](https://medium.com/@jessgreb01/digging-into-docker-layers-c22f948ed612)
+the filesystem](https://medium.com/@jessgreb01/digging-into-docker-layers-c22f948ed612) :white_check_mark:
 - [Describe how volumes are used with Docker for persistent storage](https://docs.docker.com/engine/admin/volumes/volumes/) :white_check_mark:
 - [Identify the steps you would take to clean up unused images on a filesystem, also on
-DTR](https://docs.docker.com/engine/reference/commandline/image_prune/)
-- [Demonstrate how storage can be used across cluster nodes](https://docs.docker.com/engine/extend/legacy_plugins/#volume-plugins)
-- [Identity roles](https://docs.docker.com/datacenter/ucp/2.2/guides/access-control/permission-levels/#roles)
-- [Describe the difference between UCP workers and managers](https://docs.docker.com/datacenter/ucp/2.2/guides/architecture/)
-- Describe process to use external certificates with UCP and DTR ([UCP](https://docs.docker.com/ee/ucp/), [DTR](https://docs.docker.com/ee/dtr/))
+DTR](https://docs.docker.com/engine/reference/commandline/image_prune/) :white_check_mark:
+- [Demonstrate how storage can be used across cluster nodes](https://docs.docker.com/engine/extend/legacy_plugins/#volume-plugins):white_check_mark:
+- [Identity roles](https://docs.docker.com/datacenter/ucp/2.2/guides/access-control/permission-levels/#roles) :white_check_mark:
+- [Describe the difference between UCP workers and managers](https://docs.docker.com/datacenter/ucp/2.2/guides/architecture/):confused:
+- Describe process to use external certificates with UCP and DTR ([UCP](https://docs.docker.com/ee/ucp/), [DTR](https://docs.docker.com/ee/dtr/)) :white_check_mark:
 
 ## Links
 
