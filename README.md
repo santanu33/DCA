@@ -90,15 +90,15 @@ registry, and UCP controllers](https://success.docker.com/article/networking/)
 - Describe the difference between "host" and "ingress" port publishing mode ([Host](https://docs.docker.com/engine/swarm/services/#publish-a-services-ports-directly-on-the-swarm-node), [Ingress](https://docs.docker.com/engine/swarm/ingress/))
 
 ### Domain 5: Security (15% of exam)
-- [Describe the process of signing an image](https://docs.docker.com/engine/security/trust/content_trust/#push-trusted-content)
-- [Demonstrate that an image passes a security scan](https://docs.docker.com/docker-cloud/builds/image-scan/)
+- [Describe the process of signing an image](https://docs.docker.com/engine/security/trust/content_trust/#push-trusted-content) :confused:
+- [Demonstrate that an image passes a security scan](https://docs.docker.com/docker-cloud/builds/image-scan/) :confused:
 - [Enable Docker Content Trust](https://docs.docker.com/engine/security/trust/content_trust/) :white_check_mark:
-- [Configure RBAC in UCP](https://docs.docker.com/datacenter/ucp/2.2/guides/access-control/)
-- [Integrate UCP with LDAP/AD](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/configure/external-auth/)
-- [Demonstrate creation of UCP client bundles](https://blog.docker.com/2017/09/get-familiar-docker-enterprise-edition-client-bundles/)
-- [Describe default engine security](https://docs.docker.com/engine/security/security/)
-- [Describe swarm default security](https://docs.docker.com/engine/swarm/how-swarm-mode-works/pki/)
-- [Describe MTLS](https://diogomonica.com/2017/01/11/hitless-tls-certificate-rotation-in-go/)
+- [Configure RBAC in UCP](https://docs.docker.com/datacenter/ucp/2.2/guides/access-control/) :confused:
+- [Integrate UCP with LDAP/AD](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/configure/external-auth/) :confused:
+- [Demonstrate creation of UCP client bundles](https://blog.docker.com/2017/09/get-familiar-docker-enterprise-edition-client-bundles/) :confused:
+- [Describe default engine security](https://docs.docker.com/engine/security/security/) :confused:
+- [Describe swarm default security](https://docs.docker.com/engine/swarm/how-swarm-mode-works/pki/) :confused:
+- [Describe MTLS](https://diogomonica.com/2017/01/11/hitless-tls-certificate-rotation-in-go/) :confused:
 
 ### Domain 6: Storage and Volumes (10% of exam)
 - [State which graph driver should be used on which OS](https://docs.docker.com/engine/userguide/storagedriver/selectadriver/) :white_check_mark:
